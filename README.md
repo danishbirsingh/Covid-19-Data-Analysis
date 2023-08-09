@@ -41,6 +41,4 @@ For detailed code and visualizations, refer to the Jupyter Notebook provided in 
 
 ---
 
-By [Your Name]
-Contact: [Your Email]
-Project Link: [GitHub Repository](https://github.com/yourusername/covid19-italy-province-analysis)
+By Danishbir Singh
